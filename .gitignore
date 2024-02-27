@@ -3,3 +3,5 @@ packages/resourcepacks
 packages/resourcespacks
 
 *.log
+*.rar
+*.zip
